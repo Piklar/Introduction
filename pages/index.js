@@ -49,7 +49,7 @@ export default function Home() {
 
         <img src="https://drivemehungry.com/wp-content/uploads/2022/11/tonkatsu-japanese-pork-katsu-20.jpg" alt="Pork Tonkatsu" width="300"></img>
         <p>
-          My Favourite food as of now is <strong>Pork Tonkatsu.</strong>
+          My Favourite food as of now is <strong>Pork Tonkatsu...</strong>
         </p>
 
         <hr></hr>
